@@ -1,4 +1,4 @@
-# Teamwork
+# TeamWork Laravel - Project Management System
 
 This package supports Laravel 6 and above.
 
